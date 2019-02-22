@@ -12,6 +12,10 @@ Grupo sobre o mercado de trabalho, projetos, parcerias e conhecimento.
 
 No momento desse commit o grupo tem mais de 70 membros.
 
+Participe de nossa pesquisa de mercado: 
+
+* [Aguarde](http://docs.google.com)
+
 ## Regras
 
 *Permitido*
