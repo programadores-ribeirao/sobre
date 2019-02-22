@@ -2,7 +2,7 @@
 
 * [Considerações](#considerações)
 * [Regras](#regras)
-* [Vagas/Oportunidades](#vagas-oportunidades)
+* [Vagas/Oportunidades](#vagasoportunidades)
 * [Comentários](#comentarios)
 
 ## Considerações
