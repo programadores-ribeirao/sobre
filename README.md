@@ -31,6 +31,8 @@ No momento desse commit o grupo tem mais de 70 membros.
 
 Divulgue somente se souber a procedência e se ver que não é um RH recrutando um monte de devs para fazer imensos filtros na seleção.
 
+Algumas vagas estarão disponíveis nos commits.
+
 ## Projetos
 
 Quem quiser divultar projetos fiquem a vontade, se quiser que o link de algum projeto seja colocado aqui no git somente solicitar que será este adicionado como uma página PROJETO.md aqui no repositório.
