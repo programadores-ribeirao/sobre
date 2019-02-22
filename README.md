@@ -3,6 +3,7 @@
 * [Considerações](#considerações)
 * [Regras](#regras)
 * [Vagas/Oportunidades](#vagasoportunidades)
+* [Projetos](#projetos)
 * [Comentários](#comentarios)
 
 ## Considerações
@@ -29,6 +30,10 @@ No momento desse commit o grupo tem mais de 70 membros.
 ## Vagas/Oportunidades
 
 Divulgue somente se souber a procedência e se ver que não é um RH recrutando um monte de devs para fazer imensos filtros na seleção.
+
+## Projetos
+
+Quem quiser divultar projetos fiquem a vontade, se quiser que o link de algum projeto seja colocado aqui no git somente solicitar que será este adicionado como uma página PROJETO.md aqui no repositório.
 
 ## Comentários
 
