@@ -14,7 +14,7 @@ No momento desse commit o grupo tem mais de 70 membros.
 
 Participe de nossa pesquisa de mercado: 
 
-* [Aguarde](https://docs.google.com/forms/d/e/1FAIpQLSf77ttXV540xTr6IqyIzTLwVb2hMeMphCrCdMuudC0x09Ltkg/viewform)
+* [Link](https://docs.google.com/forms/d/e/1FAIpQLSf77ttXV540xTr6IqyIzTLwVb2hMeMphCrCdMuudC0x09Ltkg/viewform)
 
 ## Regras
 
