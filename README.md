@@ -12,9 +12,13 @@ Grupo sobre o mercado de trabalho, projetos, parcerias e conhecimento.
 
 No momento desse commit o grupo tem mais de 70 membros.
 
-Participe de nossa pesquisa de mercado: 
+Pesquisa de Mercado T.I.
 
-* [Link](https://docs.google.com/forms/d/e/1FAIpQLSf77ttXV540xTr6IqyIzTLwVb2hMeMphCrCdMuudC0x09Ltkg/viewform)
+* [2019](https://docs.google.com/forms/d/e/1FAIpQLSdsUgAy4UM7YPKOxbTapGpJ64iDJtBxhlZv4fbXeY-pzBfmAA/viewanalytics)
+
+Participe de nossa pesquisa de mercado 2020, em breve: 
+
+* [Link](###)
 
 ## Regras
 
