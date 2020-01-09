@@ -10,7 +10,7 @@
 
 Grupo sobre o mercado de trabalho, projetos, parcerias e conhecimento.
 
-No momento desse commit o grupo tem mais de 70 membros.
+No momento desse commit o grupo tem mais de 100 membros.
 
 Pesquisa de Mercado T.I.
 
